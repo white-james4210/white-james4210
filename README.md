@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm James (@white-james4210) 👋
 
-<!--
-**white-james4210/white-james4210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Seoul. I build scalable backend services, tinker with distributed systems, and spend too much time tuning DB queries.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Core backend services at Tech Labs
+- High-performance Go microservices
+- Building lean APIs with FastAPI, PostgreSQL, and Redis
+- Automating local and staging envs with Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack
+- **Languages:** Go, Python, SQL
+- **Databases & Caching:** PostgreSQL, Redis
+- **Frameworks:** FastAPI, Gin
+- **Tools & Infra:** Docker, Linux, Git, GitHub Actions
+
+#### Find me
+- Email: james.white4210@gmail.com
+- LinkedIn: linkedin.com/in/james-white-dev
